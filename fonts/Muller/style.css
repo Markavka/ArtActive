@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Muller';
+    src: local('Muller Heavy'), local('Muller-Heavy'),
+        url('MullerHeavy.woff2') format('woff2'),
+        url('MullerHeavy.woff') format('woff'),
+        url('MullerHeavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
